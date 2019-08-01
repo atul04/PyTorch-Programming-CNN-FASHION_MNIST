@@ -3,7 +3,11 @@ To horn up my skills of Pytorch framework
 
 An illustrated Jupyter-Notebook for the implementation of CNN from the scratch for the Fashion-MNIST DATASET
 
-code - flow
+Learning - flow
+1. Installation Check
+2. Using Cuda
+3. Learning about Tensors
+4. CNN
 
 
 ## Dataset :
