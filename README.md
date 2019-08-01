@@ -1,6 +1,11 @@
 # PyTorch-Programming
 To horn up my skills of Pytorch framework
 
+An illustrated Jupyter-Notebook for the implementation of CNN from the scratch for the Fashion-MNIST DATASET
+
+code - flow
+
+
 ## Dataset :
 ### https://www.kaggle.com/zalando-research/fashionmnist
 
